@@ -1,0 +1,10 @@
+uvicorn
+structlog
+fastapi
+databases
+pyyaml
+psutil
+tenacity
+aiofiles
+aiosqlite
+transformers
